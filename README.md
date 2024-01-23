@@ -48,16 +48,3 @@ Feature `Class` is the response variable and it takes value 1 in case of fraud a
     4) Handling Imbalanced Datasets. 
 
     5) Conclusions.
-
-    6) Further Enhancements.
-
-    7) Acknowledgement and References.
-
-
-### Your one like gives us MOTIVATION.
-
-If any doubts,
-
-### CONTACT ME ON:
-
-linkedin --> https://www.linkedin.com/in/abhishek-thapa-b9a733199/
