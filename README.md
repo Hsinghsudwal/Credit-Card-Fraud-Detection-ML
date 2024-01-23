@@ -1,7 +1,3 @@
-## This project took lots of effort. Don't forget to tap `STAR`⭐ on top-right corner.
-
-# CodeClause INTERN PROJECTS ON DataScience
-
 # `Fraud Detection - Credit Card Fraud Detection`
 
 # `Abstract :` 
@@ -29,9 +25,6 @@ Thus, separate files are created for each Machine Learning Models so that every 
 
 main.ipynb - It contains all the processes of loading of datasets, preprocessing and EDA & Visualization. 
 
-### ABOUT DATASETS: 
-
-URL : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 This datasets have 492 frauds out of 284,807 transactions. It is highly unbalanced, the positive class--1 (frauds) account for 0.172% of all transactions.
 
@@ -61,19 +54,6 @@ Feature `Class` is the response variable and it takes value 1 in case of fraud a
     7) Acknowledgement and References.
 
 
-#### JUST HAVE A CUP OF COFFEE IN FRONT OF YOU AND EXOLORE 😊 !!! 
-
-## FILES 
-
-### YOUTUBE CHANNEL -- 64bitCODING
-
-link: https://www.youtube.com/channel/UC7kCwIjNR9wECvxJ8jbn0fQ
-
-## `Uploaded Explanation Video of This Project`
-
-Coming Soon!!!
-
-## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
 ### Your one like gives us MOTIVATION.
 
 If any doubts,
